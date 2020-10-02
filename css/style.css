@@ -19,7 +19,7 @@ main {
 header {
     color: #fff;
     font-size: 24px;
-    margin-left: 225px;
+    margin-left: 255px;
 }
 
 ul {
@@ -103,7 +103,7 @@ li {
 
 footer {
     margin-top: 20px;
-    margin-left: 225px;
+    margin-left: 255px;
     color: #fff;
     font-size: 20px;
     padding-bottom: 40px;
